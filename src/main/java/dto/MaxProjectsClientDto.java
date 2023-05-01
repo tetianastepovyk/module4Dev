@@ -6,5 +6,5 @@ import lombok.Builder;
 @Builder
 public class MaxProjectsClientDto {
     private String name;
-    private int count;
+    private int projectCount;
 }
